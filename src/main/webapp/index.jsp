@@ -72,7 +72,7 @@
 
     <div class="container">
         <h1>Welcome to RRIT</h1>
-        <h2>Master CI/CD in Devops</h2>
+        <h2>Master CI/CD in Devops Exp on Azure Devops</h2>
         <div class="cta">
             <h2>Start Learning Today!!!!!!!</h2>
             <p>Join thousands of learners and get hands-on experience with Continuous Integration and Continuous Deployment practices!</p>
