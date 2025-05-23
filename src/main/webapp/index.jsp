@@ -71,12 +71,12 @@
 <body>
 
     <div class="container">
-        <h1>Welcome to CodersArcade.com</h1>
-        <h2>Master CI/CD with Our Hands-On Courses</h2>
+        <h1>Welcome to RRIT</h1>
+        <h2>Master CI/CD in Devops</h2>
         <div class="cta">
             <h2>Start Learning Today!!</h2>
             <p>Join thousands of learners and get hands-on experience with Continuous Integration and Continuous Deployment practices!</p>
-            <a href="https://www.youtube.com/c/codersarcade" class="button" target="_blank">Explore Courses</a>
+            <a href="https://www.rrit.ac.in/" class="button" target="_blank">Click here RRIT</a>
         </div>
         <footer>
             <p>&copy; 2025 Coders Arcade. All rights reserved.</p>
