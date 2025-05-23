@@ -79,7 +79,7 @@
             <a href="https://www.rrit.ac.in/" class="button" target="_blank">Click here RRIT</a>
         </div>
         <footer>
-            <p>&copy; 2025 Coders Arcade. All rights reserved.</p>
+            <p>&copy; 2025 . All rights reserved.</p>
         </footer>
     </div>
 
